@@ -20,6 +20,7 @@
 #include <sys/time.h>
 
 #include <faiss/AutoTune.h>
+#include <faiss/index_factory.h>
 
 
 /**
